@@ -3,8 +3,8 @@ import './App.css';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 
-import Nouns from "./Nouns.js"
-import Verbs from "./Verbs.js"
+import NounsWidget from "./Nouns.js"
+import VerbsWidget from "./Verbs.js"
 
 function App() {
   return (
@@ -16,10 +16,10 @@ function App() {
     </TabList>
 
     <TabPanel>
-      <Nouns />
+      <NounsWidget />
     </TabPanel>
     <TabPanel>
-      <Verbs />
+      <VerbsWidget />
     </TabPanel>
   </Tabs>
     </div>

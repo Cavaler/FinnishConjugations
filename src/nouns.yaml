@@ -1,0 +1,35 @@
+﻿- eng: shelf
+  inf: hylly
+  part: hyllyä
+  mon: hyllyt
+  gen: hyllyn
+  s-missa: hyllyssä
+  l-missa: hyllyllä
+  s-mista: hyllystä
+  l-mista: hyllyltä
+  s-mihin: hyllyyn
+  l-mihin: hyllylle
+
+- eng: woman
+  inf: nainen
+  part: naista
+  mon: naiset
+  gen: naisen
+  s-missa: naisessä
+  l-missa: naisellä
+  s-mista: naisestä
+  l-mista: naiseltä
+  s-mihin: naiseen
+  l-mihin: naiselle
+
+- eng: room
+  inf: huone
+  part: huonetta
+  mon: huoneet
+  gen: huoneen
+  s-missa: huoneessä
+  l-missa: huoneellä
+  s-mista: huoneestä
+  l-mista: huoneeltä
+  s-mihin: huoneeseen
+  l-mihin: huoneelle

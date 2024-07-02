@@ -1,6 +1,6 @@
 import React from 'react'
 
-class Verbs extends React.Component {
+class VerbsWidget extends React.Component {
     render() {
         return (
             <div>Verbs
@@ -9,4 +9,4 @@ class Verbs extends React.Component {
     }
 }
 
-export default Verbs
+export default VerbsWidget
