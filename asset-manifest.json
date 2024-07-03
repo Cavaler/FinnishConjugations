@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FinnishConjugations/static/css/main.6ace7247.css",
-    "main.js": "/FinnishConjugations/static/js/main.59a2ab3c.js",
+    "main.js": "/FinnishConjugations/static/js/main.eb38496f.js",
     "static/js/453.e98fbebd.chunk.js": "/FinnishConjugations/static/js/453.e98fbebd.chunk.js",
     "index.html": "/FinnishConjugations/index.html",
     "main.6ace7247.css.map": "/FinnishConjugations/static/css/main.6ace7247.css.map",
-    "main.59a2ab3c.js.map": "/FinnishConjugations/static/js/main.59a2ab3c.js.map",
+    "main.eb38496f.js.map": "/FinnishConjugations/static/js/main.eb38496f.js.map",
     "453.e98fbebd.chunk.js.map": "/FinnishConjugations/static/js/453.e98fbebd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ace7247.css",
-    "static/js/main.59a2ab3c.js"
+    "static/js/main.eb38496f.js"
   ]
 }
